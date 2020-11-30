@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44df85f8-1af5-4fb9-b33f-7ca6fd740f18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/qfedu/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qfedu/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="qqqq" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -52,11 +58,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606740133770</updated>
-      <workItem from="1606740136300" duration="23000" />
+      <workItem from="1606740136300" duration="338000" />
     </task>
+    <task id="LOCAL-00001" summary="修改了韩大帅个">
+      <created>1606740192059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740192059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改了韩大帅个" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了韩大帅个" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="6" key="CommitChangelistDialog2" timestamp="1606740188471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606740188471" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606740251012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606740251012" />
+    <state x="478" y="214" key="git4idea.merge.GitPullDialog" timestamp="1606740312851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1606740312851" />
   </component>
 </project>

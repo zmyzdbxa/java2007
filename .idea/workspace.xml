@@ -77,17 +77,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改了韩大帅个" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="6" key="CommitChangelistDialog2" timestamp="1606740188471">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1606741038273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606740188471" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606741038273" />
+    <state x="477" y="129" key="MultipleFileMergeDialog" timestamp="1606741007241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1606741007241" />
     <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1606740742329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606740742329" />
+    <state x="922" y="246" key="git4idea.merge.GitMergeDialog" timestamp="1606740991417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="922" y="246" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1606740991417" />
     <state x="478" y="214" key="git4idea.merge.GitPullDialog" timestamp="1606740312851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="478" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1606740312851" />
+    <state x="580" y="318" key="git4idea.ui.GitResetDialog" timestamp="1606740974800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="318" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1606740974800" />
   </component>
 </project>
